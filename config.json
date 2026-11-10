@@ -6,7 +6,8 @@
     "output/china-holidays.ics",
     "output/lunar-calendar.ics",
     "output/solar-terms.ics",
-    "output/festivals.ics"
+    "output/festivals.ics",
+    "output/birthdays.ics"
   ],
   "mergeOutput": "all-in-one.ics",
   "mergeCalName": "全能日历",
